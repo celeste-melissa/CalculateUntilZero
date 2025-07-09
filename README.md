@@ -29,10 +29,10 @@ It uses:
 
 ## 💻 Example
 
-Enter a number: 5.5
-Enter a number: 3.2
-Enter a number: -1
-Enter a number: 0
+Enter a number: 5.5 <br>
+Enter a number: 3.2 <br>
+Enter a number: -1 <br>
+Enter a number: 0 <br>
 Sum: 7.7
 
 ## 📂 File
